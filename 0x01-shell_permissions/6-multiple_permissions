@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod rwxrwxr-- hello
+chmod ugo = 114 hello
+
