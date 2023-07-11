@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -b c,C | 20-hiago
+cut -d c,C
