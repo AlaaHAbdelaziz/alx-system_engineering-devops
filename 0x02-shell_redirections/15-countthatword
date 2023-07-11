@@ -1,2 +1,2 @@
 #!/bin/bsh
-grep -n "bin" /etc/passwd
+egrep -c "bin" /etc/passwd
